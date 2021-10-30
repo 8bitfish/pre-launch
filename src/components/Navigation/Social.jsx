@@ -15,7 +15,7 @@ export const Socials = () => {
     //   ),
     // },
     {
-      link: "/location",
+      link: "https://discord.gg/dYfUayrJD2",
       icon: (
         <Discord key={1} className={`${globalClass} hover:text-[#6D82CF]`} />
       ),
